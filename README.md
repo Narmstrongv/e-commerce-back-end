@@ -3,6 +3,12 @@
 # Description
 The e-commerce back end is an application that showcases the work behind the scenes of a typical e-commerce website.
 
+# Technologies Used
+- Express
+- Node
+- MySQL
+- Sequelize
+
 # Walkthrough Video
 - Showing Dependencies, seeding the Database, and starting the server
 
